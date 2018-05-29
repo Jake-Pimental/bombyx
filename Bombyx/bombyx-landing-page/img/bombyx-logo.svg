@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="244px" height="63px" viewBox="0 0 244 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>bombyx logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="81.2262977%" y1="8.20201922%" x2="40.6927285%" y2="67.321076%" id="linearGradient-1">
+            <stop stop-color="#FF8C8E" offset="0%"></stop>
+            <stop stop-color="#E94A61" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bombyx-logo" transform="translate(-17.000000, -20.000000)">
+            <text id="bombyx" font-family="Kano-regular, Kano" font-size="64" font-weight="normal" letter-spacing="-3.2" fill="#000000">
+                <tspan x="72" y="69">b</tspan>
+                <tspan x="103.68" y="69" letter-spacing="-5">o</tspan>
+                <tspan x="132.088" y="69" letter-spacing="-5.7">m</tspan>
+                <tspan x="174.964" y="69" letter-spacing="-5">b</tspan>
+                <tspan x="204.844" y="69" letter-spacing="-4.3">y</tspan>
+                <tspan x="233.504" y="69" letter-spacing="-5">x</tspan>
+            </text>
+            <g id="Group" transform="translate(45.508395, 44.904193) scale(-1, 1) rotate(60.000000) translate(-45.508395, -44.904193) translate(13.008395, 11.904193)" stroke="url(#linearGradient-1)" stroke-width="4">
+                <polygon id="Path-4" transform="translate(32.776493, 33.008661) rotate(30.000000) translate(-32.776493, -33.008661) " points="10.6963848 45.390529 32.4469262 58.3280226 48.3905042 49.1235187 54.8566011 45.390529 54.8566011 20.1155416 32.4469262 7.68929928 10.6963848 20.5977146"></polygon>
+                <path d="M10.9257985,35.1879381 C18.8919151,41.4327162 26.7900546,44.0150194 34.6202169,42.9348478 C46.3654605,41.3145905 58.6505259,31.3988504 57.5660286,33.2772548 C53.5987254,40.1488254 49.6314223,47.020396 45.6641191,53.8919667 L45.6641191,53.8919667 C45.3024989,54.5183113 44.6308982,54.9006263 43.9077114,54.8918183 L20.6564696,54.6086192 C19.9284222,54.5997521 19.2627134,54.1959273 18.9184798,53.5543395 C9.51920513,36.035827 6.85497804,29.9136932 10.9257985,35.1879381 Z" id="Path-2" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

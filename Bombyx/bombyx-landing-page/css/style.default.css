@@ -551,15 +551,15 @@ STYLE SWITCHER FOR DEMO
  * 1. NAVBAR
  */
 .navbar {
-  padding: 1.1rem 1rem;
+  padding: 1rem 1rem;
 }
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   width: 7.5rem;
 }
 
